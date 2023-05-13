@@ -634,11 +634,11 @@ class ChatBot(Client):
 
         ## FB COOKIE HERE
 cookies = {
-    "sb": "",
-    "fr": "",
-    "c_user": "",
-    "datr": "",
-    "xs": ""
+    "sb": "ugxgZDvh2fRb9Yyw1GwPRUQO",
+    "fr": "0uMmddemGjH4iu92b.AWUge6DOyUhQHM4udHp237Vk-2s.BkYBv2.sh.AAA.0.0.BkYB-k.AWX_CxGovQs",
+    "c_user": "100092439290764",
+    "datr": "ugxgZK_4CMN4xT6O6EZodYfO",
+    "xs": "44%3AGSwK7AzGbG3_xQ%3A2%3A1684016422%3A-1%3A-1%3A%3AAcWtXII5Zas0x5cL3Pknpsx2V5klrdhjklZFQlk8NQ"
 }
 
         ## FB ACCOUNT
